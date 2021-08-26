@@ -3,7 +3,8 @@
 ## Welcome to EternalStarCHN`s Home 👋  
 ### My warehouse contains：  
 + Hardware circuit design
-+ MCU project  
++ MCU project
++ Emmbedded system design 
 + Machine vision   
 + ......
 
