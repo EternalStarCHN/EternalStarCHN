@@ -2,10 +2,11 @@
 
 ## Welcome to EternalStarCHN`s Home 👋  
 ### My warehouse contains：  
-+ Hardware circuit design
-+ MCU project
-+ Emmbedded system design 
-+ Machine vision   
-+ ......
++ Emmbedded system design  
++ 3D modeling
++ Digital signal processing
++ Hardware circuit design 
++ Machine vision 
++ ......  
 
 <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=EternalStarCHN&layout=compact" />
